@@ -7,3 +7,5 @@ There are no restrictions on the language you use or how you achieve this - we'l
 ## Exercises
 
 Each exercise is contained in its own file within the repository.
+
+* [Anagram checker](anagram-checker.md)
