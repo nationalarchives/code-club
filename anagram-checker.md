@@ -8,13 +8,13 @@ Create a program that:
 
 ## Example output
 
-`
+```
 Enter the first string: Resistance
 
 Enter the second string: Ancestries
 
 'Resistance' and 'Ancestries' are anagrams of each other
-`
+```
 
 ## Constraints
 
