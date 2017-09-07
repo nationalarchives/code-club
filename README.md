@@ -10,3 +10,4 @@ Each exercise is contained in its own file within the repository.
 
 * [Anagram checker](anagram-checker.md)
 * [Printing quotes](printing-quotes.md)
+* [Creating JSON from DOM](create-json-from-dom.md)
