@@ -1,5 +1,7 @@
 # Query the DOM to create JSON
 
+## Part 1
+
 The challenge of this task is to create a JSON (JavaScript Object Notation) representation from the DOM (Document Object Model), something that 
 is quite common when progressively enhancing HTML to be a dynamic, interactive application. 
 
@@ -8,6 +10,24 @@ creating a WordPress template that returns all research guides and categories in
 and create an array of corresponding JSON objects. 
 
 The HTML structure and corresponding JSON are available [here](https://github.com/nationalarchives/research-guides-single-page-iteration-two/blob/master/proposed-html-structure.html)
+
+## Part 2
+
+Now that you have created a JSON representation from the DOM, we need the logic to be contained within an ES6 Class that can be interacted with as follows: 
+
+```javascript
+
+let research_guides_data_data = new ResearchGuidesFromDom();
+
+let subjects = research_guides_data.getSubjects(); // returns the array of subjects
+
+let guides = research_guides_data.getGuides(); // returns the array of guides
+
+// Note: we'll need to add more methods to these objects (so that we can, for example, retrieve recommended guides for a specific subject)
+
+
+```
+
 
 ## Constraints 
 
