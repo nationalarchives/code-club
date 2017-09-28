@@ -4,7 +4,11 @@ The purpose of this repository is to contain useful information and resources co
 
 This includes coding exercises that will allow apprentice software developers to practice their coding skills and discuss the approach they have taken.
 
-## Notes from session on 26 September 2017
+## Session on 3 October 2017
+
+This session was focused on the assistance available via modern IDEs, using the features of PhpStorm (from JetBrains) as an example. The list of features discussed is available [here](resources/modern-ide-features.md).
+
+## Session on 26 September 2017
 
 We discussed:
 
