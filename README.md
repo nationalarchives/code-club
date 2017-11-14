@@ -9,7 +9,7 @@ The new format is simply for **each participant to research a specified topic an
 
 ## This week
 
-We'll begin with the essential features of ECMAScript 6 (ES6) with each participant researching a topic in order to explain and demo it to the group. [This week](weeks/week_one.md) we'll start looking at ES6 essentials.  
+We'll begin with the essential features of ECMAScript 6 (ES6) with each participant researching a topic in order to explain and demo it to the group. [This week](weeks/week_two/plan.md) we'll continue looking at ES6 essentials.  
 
 ## High-level plan for coming months
 
@@ -17,7 +17,8 @@ We'll begin with the essential features of ECMAScript 6 (ES6) with each particip
 
 We'll begin by exploring the newer features of ECMAScript specification (upon which JavaScript implementations are based) and associated tooling.
 
-* [Week 1](weeks/week_one.md): ES6 essentials - Using ES6 today and object literal changes
+* [Week 1](weeks/week_one/plan.md): ES6 essentials - Using ES6 today and object literal changes
+* [Week 2](weeks/week_two/plan.md): ES6 essentials - Arrow functions
 
 ### Testing 
 
