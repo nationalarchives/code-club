@@ -9,9 +9,7 @@ The new format is simply for **each participant to research a specified topic an
 
 ## This week
 
-We'll conclude our look at the essential features of ECMAScript 6 (ES6) with each participant [researching a topic in order to explain and demo it](weeks/week_three/plan.md) to the group. 
-
-This is our last week looking at ES6 essentials (for the time being, there is a great deal still to cover and we'll pick it up again). Next week we'll begin looking at testing.
+We'll be looking at Template Literals and reviewing what we've learned about [unit testing](weeks/week_four/plan.md). 
 
 ## High-level plan for coming months
 
