@@ -9,7 +9,7 @@ The new format is simply for **each participant to research a specified topic an
 
 ## This week
 
-We'll be looking at Template Literals and reviewing what we've learned about [unit testing](weeks/week_four/plan.md). 
+We'll continue (for the second week) looking at [unit testing](weeks/week_five/plan.md)
 
 ## High-level plan for coming months
 
@@ -24,6 +24,9 @@ We'll begin by exploring the newer features of ECMAScript specification (upon wh
 ### Testing 
 
 We'll explore modern approaches to testing including TDD, BDD, regression and automation tests.
+
+* [Week 4](weeks/week_four/plan.md): Discussion about unit testing and introduction to ES6 Template Literals
+* [Week 5](weeks/week_five/plan.md): Continue looking at TDD
 
 ### Modern client-side JavaScript (Part 2 - Classes, Symbols, Objects and Decorators)
 
