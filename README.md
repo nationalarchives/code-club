@@ -1,11 +1,13 @@
 # Code club
 
-We have spoken recently about changing the format of Code Club to:
+## Purpose and format
 
-1. Provide more structure
-2. Facilitate more active contribution from all participants
+Code club is a weekly, structured meet-up during which attendees explore development related topics. We've tried a few different formats and are currently working with two: 
 
-The new format is simply for **each participant to research a specified topic and use the Code Club session to describe the topic to other participants**. 
+* **For bigger topics** we're individually researching **the same topic** and coming together to discuss what we've found as a group (for example, Unit Testing)
+* **For smaller topics** - we're individually researching **different topics** and presenting findings to other attendees (for example, ES6 arrow functions)
+
+We keep all the material from previous weeks in the `/weeks/` directory, including the presentation slides and other materials prepared. 
 
 ## This week
 
