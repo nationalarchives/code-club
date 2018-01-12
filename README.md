@@ -11,7 +11,7 @@ We keep all the material from previous weeks in the `/weeks/` directory, includi
 
 ## This week
 
-We'll continue (for the second week) looking at [unit testing](weeks/week_five/plan.md)
+We'll continue be looking at at the current coursework [Java assignment](weeks/week_six/plan.md)
 
 ## High-level plan for coming months
 
@@ -29,6 +29,10 @@ We'll explore modern approaches to testing including TDD, BDD, regression and au
 
 * [Week 4](weeks/week_four/plan.md): Discussion about unit testing and introduction to ES6 Template Literals
 * [Week 5](weeks/week_five/plan.md): Continue looking at TDD
+
+### Assistance for the Java assignment
+
+* [Week 6](weeks/week_six/plan.md): Guidance session for the current Java assignment
 
 ### Modern client-side JavaScript (Part 2 - Classes, Symbols, Objects and Decorators)
 
