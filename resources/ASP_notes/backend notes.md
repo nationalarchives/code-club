@@ -8,21 +8,20 @@ In this session we learned a few similarities and differences between C\# and Ja
 
 ---
 
-We were also shown some of the coding standards in use by The National Archives, such as placing 'm_' in from of member variables to classify them as such. Similarly, classes are intended to be mostly marked as public, and not internal or private.
+We were also shown some of the coding standards in use by The National Archives, such as placing `m_` in from of member variables to classify them as such. Similarly, classes are intended to be mostly marked as public, and not internal or private.
 
 
 Along with these, we discussed the difference between 'value' and 'reference' type variables:
 
-* "A Value Type stores its contents in memory allocated on the stack."
-* "Reference Types are used by a reference which holds a reference (address) to the object but not the object itself."
+> "A Value Type stores its contents in memory allocated on the stack... Reference Types are used by a reference which holds a reference (address) to the object but not the object itself."
 
-[src.](http://net-informations.com/faq/general/valuetype-referencetype.htm)
+Source: [net-informations.com](http://net-informations.com/faq/general/valuetype-referencetype.htm)
 
 ---
 
 Some more C\# tidbits that we learned:
 
-* The formatting whe giving a class an interface to inherit from follows: " *class name* **:** *interface name* "
+* The formatting when giving a class an interface to inherit from follows: " *class name* **:** *interface name* "
 * The '*Controller*' interface is .NET native.
 * Declaring a method with the '*virtual*' keyword means that it must be overwritten by any child classes.
 
