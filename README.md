@@ -11,7 +11,7 @@ We keep all the material from previous weeks in the `/weeks/` directory, includi
 
 ## This week
 
-We'll continue be looking at at the current coursework [Java assignment](weeks/week_six/plan.md)
+The next Code Club session is on 30 January, where we'll be looking at [Coding for accessibility](weeks/week_eight/plan.md)
 
 ## High-level plan for coming months
 
@@ -33,6 +33,11 @@ We'll explore modern approaches to testing including TDD, BDD, regression and au
 ### Assistance for the Java assignment
 
 * [Week 6](weeks/week_six/plan.md): Guidance session for the current Java assignment
+* [Week 7]: No session this week - apprentices are focusing on their Java assignment (let us know if we can help with anything)
+
+### Coding for accessibility
+
+* [Week 8](weeks/week_eight/plan.md): We'll be covering the tools, techniques and resources available to software developers to ensure accessibility. 
 
 ### Modern client-side JavaScript (Part 2 - Classes, Symbols, Objects and Decorators)
 
