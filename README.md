@@ -11,7 +11,7 @@ We keep all the material from previous weeks in the `/weeks/` directory, includi
 
 ## This week
 
-The next Code Club session is on 30 January, where we'll be looking at [Coding for accessibility](weeks/week_eight/plan.md)
+The next Code Club session is on 19 April, where we'll be looking at [work-based project technologies](weeks/week_nine/plan.md)
 
 ## High-level plan for coming months
 
@@ -39,10 +39,6 @@ We'll explore modern approaches to testing including TDD, BDD, regression and au
 
 * [Week 8](weeks/week_eight/plan.md): We'll be covering the tools, techniques and resources available to software developers to ensure accessibility. 
 
-### Modern client-side JavaScript (Part 2 - Classes, Symbols, Objects and Decorators)
+### Work-based project technologies
 
-We'll continue by looking at some slightly more advanced ES6 concepts
-
-### Node.js and server-side JavaScript
-
-Node.js has made JavaScript a general purpose programming language. We'll use these session to get to grips with Node.js.
+* [Week 9](weeks/week_nine/plan.md): We'll be looking at a couple of the technologies being used in work-based projects, namely: HTML5 audio/video and Node.js
