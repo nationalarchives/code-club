@@ -42,3 +42,7 @@ We'll explore modern approaches to testing including TDD, BDD, regression and au
 ### Work-based project technologies
 
 * [Week 9](weeks/week_nine/plan.md): We'll be looking at a couple of the technologies being used in work-based projects, namely: HTML5 audio/video and Node.js
+
+### What a Lead Developer Does
+
+* [Week 10](weeks/week_ten/plan.md): Gwyn will provide a presentation on [What a Lead Developer does](weeks/week_ten/what_a_lead_developer_does.pdf)
